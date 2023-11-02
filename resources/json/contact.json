@@ -1,0 +1,24 @@
+{
+  "title": {
+    "first": "get in",
+    "last": "touch",
+    "back": "contact",
+    "content": [
+      "Just feel free to contact me, whoever you are and with whatever you want. You will be always welcome."
+    ]
+  },
+  "contact": [
+    {
+      "type": "email",
+      "value": "pavelpu122@gmail.com"
+    },
+    {
+      "type": "telegram",
+      "value": "@earthshaker0622"
+    },
+    {
+      "type": "github",
+      "value": "https://github.com/devlancer412"
+    }
+  ]
+}

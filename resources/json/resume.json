@@ -1,0 +1,106 @@
+{
+  "title": {
+    "first": "My",
+    "last": "history",
+    "back": "resume",
+    "content": ["Followings are my Education & Public Experience."]
+  },
+  "resume": [
+    {
+      "title": "Education",
+      "data": [
+        {
+          "title": "Nanyang Technological University",
+          "subtitle": "https://www.ntu.edu.sg/",
+          "address": "20 Cecil Street, Singapore",
+          "duration": [2011, 2014],
+          "major": "Computer Science",
+          "content": "Bachelor of Computer Programming.",
+          "label": ["C/C++", "JavaScript", "Python", "PHP"]
+        }
+      ]
+    },
+    {
+      "title": "Experience",
+      "data": [
+        {
+          "title": "Lead Developer",
+          "subtitle": "https://xdx.echange/",
+          "duration": ["Aug 2022", "Jan 2023"],
+          "content": [
+            "Forked GMX Protocol contracts.",
+            "Built Front-end with React, Tailwind css, Typescript and Integrated Tradingview and web3 functions",
+            "Built Subgraph server"
+          ],
+          "label": [
+            "Blockchain",
+            "Solidity",
+            "Smart Contract",
+            "Defi/DEX",
+            "Web3.js",
+            "React",
+            "Next.js",
+            "Tailwind css",
+            "NestJs",
+            "PostgreSQL",
+            "Subgraph",
+            "Assembly Script"
+          ]
+        },
+        {
+          "title": "Solidity | Backend Engineer",
+          "subtitle": "https://www.roosterwars.io/",
+          "duration": ["May 2020", "July 2022"],
+          "content": [
+            "Mainly worked on building smart contract and web3 integration.",
+            "Built NFT contracts such as Rooster, Egg(ERC721), GAFF, GEM(ERC1155).",
+            "Built several utility contracts such as EggSale, EggHatch, Marketplace, Store, Betting, JackPot, Affiliate Marketing and so on.",
+            "Integrated web3 to React/Next frontend and FastAPI Backend."
+          ],
+          "label": [
+            "Blockchain",
+            "Solidity",
+            "Smart Contract",
+            "ERC20/ERC721/ERC1155/ERC2918",
+            "Web3.js",
+            "web3.py",
+            "React",
+            "Next.js",
+            "FastAPI",
+            "MySQL",
+            "Cosmos DB"
+          ]
+        },
+        {
+          "title": "Full Stack Developer",
+          "subtitle": "https://vinova.sg/",
+          "duration": ["Feb 2016", "Apr 2020"],
+          "content": [
+            "Advocated interaction design best practices with a focus on consistency and usability",
+            "Developed 5+ SPAs using React/Redux.",
+            "Developed Backend API Server using Node.js, Express.js and MongoDB.\n Collaborated with the design team to defifine data structure."
+          ],
+          "label": [
+            "React",
+            "Next.js",
+            "Node.js",
+            "ExpressJs",
+            "Laravel",
+            "Django",
+            "MySQL",
+            "MongoDB"
+          ]
+        },
+        {
+          "title": "Node.js Backend & Frontend Test Engineer",
+          "subtitle": "https://www.evantage-technology.com/",
+          "duration": ["Feb 2015", "Jan 2016"],
+          "content": [
+            "Refactoring and converting commercial CI project to Node.js.\n Built reusable React.js and Next.js components.\n Wrote code, resolved any problematic issues, and performed UI tests to optimize performance."
+          ],
+          "label": ["React", "Next.js", "SCSS", "PHP", "Mysql"]
+        }
+      ]
+    }
+  ]
+}
